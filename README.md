@@ -3,7 +3,7 @@ Discord Bot Manager
 
 # Discord Bot GUI Uygulaması
 
-Bu proje, PyQt5 kütüphanesini kullanarak Discord botunuza otomatik mesaj gönderen bir grafiksel kullanıcı arayüzü (GUI) uygulamasıdır. Uygulama, Discord API'sini kullanarak Discord sunucusuna mesaj gönderir.
+Bu proje, PyQt5 kütüphanesini kullanarak Discord botunuza otomatik mesaj gönderen (hangi mesajı yüzde kaç oranında atacağını belirleyebildiğin) bir grafiksel kullanıcı arayüzü (GUI) uygulamasıdır. Uygulama, Discord API'sini kullanarak Discord sunucusuna mesaj gönderir.
 
 ![Uygulama Arayüzü](Screenshot2.jpg)
 ![Uygulama Arayüzü](Screenshot1.jpg)
