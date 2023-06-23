@@ -18,7 +18,7 @@ command_counts = {
     'w cf t': 0
 }
 
-command_weights = [60, 20, 5, 10, 5]
+command_weights = [60, 20, 5, 10, 5] # Determines which class will come in what percentage.
 
 class MyWindow(QWidget):
     def __init__(self):
