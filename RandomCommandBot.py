@@ -128,7 +128,7 @@ class MyWindow(QWidget):
         payload = {
             'content': content
         }
-        r = requests.post('DISCORD_API_URL', data=payload, headers=header)
+        r = requests.post('DISCORD_API_URL', data=payload, headers=header) #Channel DISCORD_API_URL
         if r.status_code == 200:
             if 'ws' in content or 'w cf' in content or 'w cf t' in content:
                 command_counts['ws'] += content.count('ws')
